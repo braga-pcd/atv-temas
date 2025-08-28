@@ -3,3 +3,18 @@
     padding: 0;
     box-sizing: border-box;
 }
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f3f3f3;
+    color: #333;
+    line-height: 1.6;
+}
+
+
+main {
+    max-width: 900px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border-radius: 10px;
+}
